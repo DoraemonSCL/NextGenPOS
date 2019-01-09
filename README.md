@@ -1,2 +1,3 @@
 # NextGenPOS
-This a  sale system.
+### This a  sale system designed by  designed pattern.
+
